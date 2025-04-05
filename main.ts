@@ -1,2 +1,2 @@
 console.log("hay world")
-console.log("favorite page")
+console.log("create favorite card")
